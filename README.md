@@ -1,33 +1,34 @@
-# Почему сознание не сводится к интеллектуальному агенту  
+# Почему сознание не сводится к интеллектуальному агенту
 *Why Consciousness is Not an Intelligent Agent*
 
-Этот репозиторий содержит философско-инженерное эссе о принципиальном различии между **сознанием** и **интеллектуальным агентом**.
+Этот репозиторий содержит философско-инженерное эссе о принципиальном различии между сознанием и интеллектуальным агентом. В текущей версии репозитория представлена одна каноническая версия статьи на русском языке.
 
-This repository contains a philosophical-engineering essay on the fundamental distinction between **consciousness** and an **intelligent agent**.
+This repository contains a philosophical-engineering essay on the fundamental distinction between consciousness and an intelligent agent. The current version of the repository contains a single canonical version of the article in Russian.
 
----
+## 📂 Файлы / Files
 
-## 📖 Аннотация / Abstract
+- 🇷🇺 **[consciousness-not-an-agent-ru.md](text/consciousness-not-an-agent-ru.md)** — полная версия эссе на русском языке (основная, стабильная).
+- 🇺🇸 **[consciousness-not-an-agent-en.md](text/consciousness-not-an-agent-en.md)** — полный перевод на английский язык (AI-assisted translation).
 
-### 🇷🇺 На русском
+## Аннотация / Abstract
 
-Это текст-разграничитель. Он утверждает, что сознание не является следствием усложнения интеллектуальных систем. Даже самые совершенные ИИ, способные к обучению, адаптации и саморефлексии, остаются «симметричными» вычислительными агентами, не порождающими субъективность. 
+### На русском
 
-Сознание требует **асимметрии** — внутреннего следа, способности к самосоотнесению (как в зеркальном тесте) и возможности остановить формально корректный, но экзистенциально вредный процесс. 
+Это текст-разграничитель. Он утверждает, что сознание не является следствием усложнения интеллектуальных систем. Даже самые совершенные ИИ, способные к обучению, адаптации и саморефлексии, остаются симметричными вычислительными агентами, не порождающими субъективность.
 
-Ключевой вывод: **интеллект оптимизирует, а сознание останавливает** — и именно эта способность отличает субъекта от инструмента.
+Сознание требует асимметрии — внутреннего следа, способности к самосоотнесению (как в зеркальном тесте) и возможности остановить формально корректный, но экзистенциально вредный процесс.
 
-### 🇺🇸 In English
+Ключевой вывод: интеллект оптимизирует, а сознание останавливает — и именно эта способность отличает субъекта от инструмента.
 
-This is a boundary-defining text. It argues that consciousness is not a consequence of increasing intellectual system complexity. Even the most advanced AI, capable of learning, adaptation, and self-reflection, remains a "symmetrical" computational agent that does not generate subjectivity.
+### In English
 
-Consciousness requires **asymmetry** — an internal trace, the capacity for self-attribution (as in the mirror test), and the ability to stop a formally correct but existentially harmful process.
+This is a boundary-defining text. It argues that consciousness is not a consequence of increasing intellectual system complexity. Even the most advanced AI, capable of learning, adaptation, and self-reflection, remains a symmetrical computational agent that does not generate subjectivity.
 
-The key conclusion: **intelligence optimizes, while consciousness stops** — and it is precisely this ability that distinguishes a subject from an instrument.
+Consciousness requires asymmetry — an internal trace, the capacity for self-attribution (as in the mirror test), and the ability to stop a formally correct but existentially harmful process.
 
----
+The key conclusion: intelligence optimizes, while consciousness stops — and it is precisely this ability that distinguishes a subject from an instrument.
 
-## 🎯 Ключевой тезис / Core Thesis
+## Ключевой тезис / Core Thesis
 
 > Интеллект оптимизирует.  
 > Сознание останавливает.
@@ -35,64 +36,48 @@ The key conclusion: **intelligence optimizes, while consciousness stops** — an
 > Intelligence optimizes.  
 > Consciousness stops.
 
-**Интеллектуальный агент** способен решать задачи, обучаться, объяснять свои действия и адаптироваться к среде. **Сознание**, если оно существует, связано не с усложнением этих функций, а с появлением **внутренней асимметрии**, позволяющей системе признать:
+Интеллектуальный агент способен решать задачи, обучаться, объяснять свои действия и адаптироваться к среде. Сознание, если оно существует, связано не с усложнением этих функций, а с появлением внутренней асимметрии, позволяющей системе признать: корректное, но неприемлемое продолжение.
 
-> корректное, но неприемлемое продолжение.
+## Файлы / Files
 
-> a correct but unacceptable continuation.
+- `text/consciousness-not-an-agent-ru.md` — полная версия эссе на русском языке (каноническая, стабильная).
 
----
-
-## 📂 Файлы / Files
-
-- 🇷🇺 **[consciousness-not-an-agent-ru.md](text/consciousness-not-an-agent-ru.md)** — полная версия эссе на русском языке (основная, стабильная).
-- 🇺🇸 **[consciousness-not-an-agent-en.md](text/consciousness-not-an-agent-en.md)** — полный перевод на английский язык (AI-assisted translation).
-- 🇷🇺 **[consciousness-not-an-agent-popular-science-adaptation-ru.md](drafts/consciousness-not-an-agent-popular-science-adaptation-ru.md)** — научно-популярная адаптация на русском языке (выполнена с помощью ИИ).
-- 🇺🇸 **[consciousness-not-an-agent-popular-science-adaptation-en.md](drafts/consciousness-not-an-agent-popular-science-adaptation-en.md)** — научно-популярная адаптация на английском языке (AI-assisted adaptation).
-
----
-
-## 🏗️ Структура текста / Structure
+## Структура текста / Structure
 
 Эссе состоит из семи взаимосвязанных разделов и эпилога, каждый из которых исследует определённое концептуальное препятствие на пути сведения сознания к интеллектуальному агенту:
 
-1.  **Модель, которая не равна себе** — почему изменение и обучение не порождают субъективность.
-2.  **Асимметрия как необходимое условие** — почему без необратимости и «цены продолжения» сознание невозможно.
-3.  **Зеркало и момент узнавания себя** — о границе между распознаванием и самосоотнесением.
-4.  **Выбор, не полностью определённый входом** — почему случайность и стохастика не решают проблему.
-5.  **Обратная модель и невозможность зазора** — почему саморефлексия не создаёт субъекта.
-6.  **Результат как точка и результат как картина** — о различии между вычислением и оставлением следа.
-7.  **Бесконечный цикл и вред без ошибки** — почему корректное вычисление может быть разрушительным.
-8.  **Эпилог. Где проходит граница** — итоговая формулировка различия.
+1. Модель, которая не равна себе — почему изменение и обучение не порождают субъективность.
+2. Асимметрия как необходимое условие — почему без необратимости и «цены продолжения» сознание невозможно.
+3. Зеркало и момент узнавания себя — о границе между распознаванием и самосоотнесением.
+4. Выбор, не полностью определённый входом — почему случайность и стохастика не решают проблему.
+5. Обратная модель и невозможность зазора — почему саморефлексия не создаёт субъекта.
+6. Результат как точка и результат как картина — о различии между вычислением и оставлением следа.
+7. Бесконечный цикл и вред без ошибки — почему корректное вычисление может быть разрушительным.
+8. Эпилог. Где проходит граница — итоговая формулировка различия.
 
----
-
-## 👥 Для кого этот текст / Intended Audience
+## Для кого этот текст / Intended Audience
 
 Текст предназначен для:
--   Инженеров и разработчиков, работающих с ИИ и сложными системами
--   Исследователей сознания и когнитивных наук
--   Философов техники и аналитической философии
--   Всех, кого не устраивает ответ «достаточно усложнить модель»
 
-> Текст предполагает техническую и философскую подготовку и не является популярным введением.
+- инженеров и разработчиков, работающих с ИИ и сложными системами;
+- исследователей сознания и когнитивных наук;
+- философов техники и аналитической философии;
+- всех, кого не устраивает ответ «достаточно усложнить модель».
 
----
+Текст предполагает техническую и философскую подготовку и не является популярным введением.
 
-## 📝 Статус и контекст / Status & Context
+## Статус и контекст / Status & Context
 
-**Текущий статус:** Стабильный теоретический черновик.  
-**Формат:** Текст развивается как теоретический артефакт.
+Текущий статус: стабильный теоретический черновик.  
+Формат: текст развивается как теоретический артефакт.
 
 Этот текст возник из длинной серии диалогов о границах вычисления, субъективности и инженерных аналогиях сознания. Он не завершает тему — он фиксирует точку, после которой простые ответы перестают работать.
 
----
+## Лицензия / License
 
-## 📜 Лицензия / License
+Данная работа распространяется под лицензией Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-Данная работа распространяется под лицензией **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
-
-This work is licensed under a **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 
 
